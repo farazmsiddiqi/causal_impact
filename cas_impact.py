@@ -8,7 +8,7 @@ pre_start = '2018-03-02'
 pre_end = '2018-05-02'
 post_start = '2018-05-08'
 post_end = '2018-08-07'
-stocks = ["ETH-USD", "SQ", "GM", "BMW.DE", "DIS", "KHC"]
+stocks = ["ETH-USD", "JPM", "PYPL", "BAC", "MS", "GS"]
 pre_period = [pre_start, pre_end]
 post_period = [post_start, post_end]
 
